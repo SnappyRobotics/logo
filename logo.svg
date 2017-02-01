@@ -12,19 +12,7 @@
 
   @keyframes colorAnim {
     0% {
-      fill: #ff0000;
-    }
-    25% {
-      fill: #ff3300;
-    }
-    50% {
-      fill: #ff3333;
-    }
-    75% {
-      fill: #ff3300;
-    }
-    100% {
-      fill:  #ff0000;
+   
     }
   }
   </style>
